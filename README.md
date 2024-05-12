@@ -1,6 +1,6 @@
-![image](https://github.com/mpalov/Student-Management-System/blob/main/sms_1.png)
-![image](https://github.com/mpalov/Student-Management-System/blob/main/sms_2.png)
-![image](https://github.com/mpalov/Student-Management-System/blob/main/sms_3.png)
+![image](https://github.com/mpalov/Student-Management-System/blob/main/Screenshots/sms_1.png)
+![image](https://github.com/mpalov/Student-Management-System/blob/main/Screenshots/sms_2.png)
+![image](https://github.com/mpalov/Student-Management-System/blob/main/Screenshots/sms_3.png)
 
 # Student Management System
 
